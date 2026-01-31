@@ -1,0 +1,21 @@
+# Source tarballs
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+
+# RPM build directories and artifacts
+BUILD/
+BUILDROOT/
+RPMS/
+SOURCES/
+SPECS/
+SRPMS/
+rpmbuild/
+*.rpm
+
+# Extracted source directories
+1password-*/
+
+# Signature files
+*.sig
+*.asc
