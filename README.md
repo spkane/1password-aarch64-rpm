@@ -97,11 +97,13 @@ sudo dnf remove 1password
 * This repo was directly inspired by the [original Arch Linux PKGBUILD approach by beeemT](https://github.com/beeemT/1password-aarch64).
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/spkane/1password-aarch64.svg?style=for-the-badge
-[contributors-url]: https://github.com/spkane/1password-aarch64/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/spkane/1password-aarch64.svg?style=for-the-badge
-[forks-url]: https://github.com/spkane/1password-aarch64/network/members
-[stars-shield]: https://img.shields.io/github/stars/spkane/1password-aarch64.svg?style=for-the-badge
-[stars-url]: https://github.com/spkane/1password-aarch64/stargazers
-[issues-shield]: https://img.shields.io/github/issues/spkane/1password-aarch64.svg?style=for-the-badge
-[issues-url]: https://github.com/spkane/1password-aarch64/issues
+[contributors-shield]: https://img.shields.io/github/contributors/spkane/1password-aarch64-rpm.svg?style=for-the-badge
+[contributors-url]: https://github.com/spkane/1password-aarch64-rpm/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/spkane/1password-aarch64i-rpm.svg?style=for-the-badge
+[forks-url]: https://github.com/spkane/1password-aarch64-rpm/network/members
+[stars-shield]: https://img.shields.io/github/stars/spkane/1password-aarch64-rpm.svg?style=for-the-badge
+[stars-url]: https://github.com/spkane/1password-aarch64-rpm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/spkane/1password-aarch64-rpm.svg?style=for-the-badge
+[issues-url]: https://github.com/spkane/1password-aarch64-rpm/issues
+# 1password-aarch64-rpm
+
