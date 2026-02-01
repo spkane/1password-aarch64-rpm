@@ -99,7 +99,7 @@ sudo dnf remove 1password
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/spkane/1password-aarch64-rpm.svg?style=for-the-badge
 [contributors-url]: https://github.com/spkane/1password-aarch64-rpm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/spkane/1password-aarch64i-rpm.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/spkane/1password-aarch64-rpm.svg?style=for-the-badge
 [forks-url]: https://github.com/spkane/1password-aarch64-rpm/network/members
 [stars-shield]: https://img.shields.io/github/stars/spkane/1password-aarch64-rpm.svg?style=for-the-badge
 [stars-url]: https://github.com/spkane/1password-aarch64-rpm/stargazers
